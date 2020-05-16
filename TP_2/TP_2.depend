@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1589482927 source:c:\users\mbdamiano\documents\programacion\tp_2\bibliotecafx.c
+	"bibliotecaFx.h"
+	"arrayEmployees.h"
+	"informesTP2.h"
+
+1589482924 c:\users\mbdamiano\documents\programacion\tp_2\bibliotecafx.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1589483336 source:c:\users\mbdamiano\documents\programacion\tp_2\arrayemployees.c
+	"arrayEmployees.h"
+	"bibliotecaFx.h"
+	"informesTP2.h"
+
+1589138421 c:\users\mbdamiano\documents\programacion\tp_2\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1589152474 source:c:\users\mbdamiano\documents\programacion\tp_2\main.c
+	"arrayEmployees.h"
+	"bibliotecaFx.h"
+	"informesTP2.h"
+
+1589148772 c:\users\mbdamiano\documents\programacion\tp_2\informestp2.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1589152521 source:c:\users\mbdamiano\documents\programacion\tp_2\informestp2.c
+	"bibliotecaFx.h"
+	"arrayEmployees.h"
+	"informesTP2.h"
+	<string.h>
+
